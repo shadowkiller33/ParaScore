@@ -1,0 +1,241 @@
+#-------------------------------------#
+rougeL bert-base-uncased 1 need
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between rougeL and human score is [0.3520032793824836]
+In need mode, The spearman correlation between rougeL and human score is [0.3298512892217628]
+#-------------------------------------#
+#-------------------------------------#
+rougeL bert-base-uncased 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between rougeL and human score is [0.3194209454437715]
+In free mode, The spearman correlation between rougeL and human score is [0.27527798602037823]
+#-------------------------------------#
+#-------------------------------------#
+rouge1 bert-base-uncased 1 need
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between rouge1 and human score is [0.36250864781602593]
+In need mode, The spearman correlation between rouge1 and human score is [0.32607756400554655]
+#-------------------------------------#
+#-------------------------------------#
+rouge1 bert-base-uncased 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between rouge1 and human score is [0.3081622817805859]
+In free mode, The spearman correlation between rouge1 and human score is [0.24358461753258567]
+#-------------------------------------#
+#-------------------------------------#
+rouge2 bert-base-uncased 1 need
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between rouge2 and human score is [0.36664389339075565]
+In need mode, The spearman correlation between rouge2 and human score is [0.35473724277435364]
+#-------------------------------------#
+#-------------------------------------#
+rouge2 bert-base-uncased 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between rouge2 and human score is [0.2832191977807674]
+In free mode, The spearman correlation between rouge2 and human score is [0.25488993135581844]
+#-------------------------------------#
+#-------------------------------------#
+bert_score bert-base-chinese 1 need
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bert_score and human score is [0.4043940192299709]
+In need mode, The spearman correlation between bert_score and human score is [0.3823331169265]
+#-------------------------------------#
+#-------------------------------------#
+bert_score bert-base-chinese 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between bert_score and human score is [0.4002316166929993]
+In free mode, The spearman correlation between bert_score and human score is [0.37018940919365195]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.5215573721133683]
+In free mode, The spearman correlation between parascore and human score is [0.5225631247026786]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.4925370203175061]
+In free mode, The spearman correlation between parascore and human score is [0.49025935452649366]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.49259804231551935]
+In free mode, The spearman correlation between parascore and human score is [0.4904224358543494]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.5217936678577818]
+In free mode, The spearman correlation between parascore and human score is [0.522801026372589]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-chinese 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.4220183773015431]
+In free mode, The spearman correlation between parascore and human score is [0.4110971124309943]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-chinese 1 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.33147699644633527]
+In free mode, The spearman correlation between parascore and human score is [0.3695645896836961]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.42607615878043187]
+In free mode, The spearman correlation between parascore and human score is [0.48665229709123553]
+#-------------------------------------#
+#-------------------------------------#
+bert_score bert-base-uncased 0 need
+#-------------------------------------#
+#-------------------------------------#
+bert_score bert-base-uncased 0 need
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bert_score and human score is [0.45046283949461174]
+In need mode, The spearman correlation between bert_score and human score is [0.4534064444605476]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.5217238899495399]
+In free mode, The spearman correlation between parascore and human score is [0.5227074886048652]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between parascore and human score is [0.42567849397662666]
+In free mode, The spearman correlation between parascore and human score is [0.4865612511139258]
+#-------------------------------------#
+#-------------------------------------#
+bartscore bert-base-uncased 0 free
+#-------------------------------------#
+#-------------------------------------#
+bartscore 1 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between bartscore and human score is [0.25336307928318264]
+In free mode, The spearman correlation between bartscore and human score is [0.2643574675125254]
+#-------------------------------------#
+#-------------------------------------#
+bartscore 1 0 free
+#-------------------------------------#
+#-------------------------------------#
+In free mode, The pearson correlation between bartscore and human score is [0.21674528206124213]
+In free mode, The spearman correlation between bartscore and human score is [0.24054987149670232]
+#-------------------------------------#
+#-------------------------------------#
+
+#-------------------------------------#
+bleu 0 bq need extend:True
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [0.15623427406254584]
+In need mode, The spearman correlation between bleu and human score is [0.1726651945987426]
+#-------------------------------------#
+#-------------------------------------#
+bleu 0 bq need extend:True
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [0.15623427406254584]
+In need mode, The spearman correlation between bleu and human score is [0.1726651945987426]
+#-------------------------------------#
+#-------------------------------------#
+bleu 0 bq need extend:True
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [0.15623427406254584]
+In need mode, The spearman correlation between bleu and human score is [0.1726651945987426]
+#-------------------------------------#
+#-------------------------------------#
+bleu 0 bq need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [0.24478160256634549]
+In need mode, The spearman correlation between bleu and human score is [0.22595781679879479]
+#-------------------------------------#
+#-------------------------------------#
+bleu 0 twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [-0.11897535760158835]
+In need mode, The spearman correlation between bleu and human score is [-0.10448345909348869]
+#-------------------------------------#
+#-------------------------------------#
+bleu 0 bq need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between bleu and human score is [0.1267915153609518]
+In need mode, The spearman correlation between bleu and human score is [0.14437280990918938]
+#-------------------------------------#
+#-------------------------------------#
+parascore 0 twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.5201597901716775]
+In need mode, The spearman correlation between parascore and human score is [0.5205965869890502]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.520101402298515]
+In need mode, The spearman correlation between parascore and human score is [0.5205966875170293]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.5199641595320574]
+In need mode, The spearman correlation between parascore and human score is [0.5205964228895377]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.49430636557031493]
+In need mode, The spearman correlation between parascore and human score is [0.5153960834656417]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.5200834202917802]
+In need mode, The spearman correlation between parascore and human score is [0.5203320603042475]
+#-------------------------------------#
+#-------------------------------------#
+parascore bert-base-uncased twitter need extend:False
+#-------------------------------------#
+#-------------------------------------#
+In need mode, The pearson correlation between parascore and human score is [0.5200834194887721]
+In need mode, The spearman correlation between parascore and human score is [0.5203322422363352]
+#-------------------------------------#

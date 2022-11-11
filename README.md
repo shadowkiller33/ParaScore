@@ -80,20 +80,14 @@ pip install parascore
 Some documents and tutorial can refer to the [homepage](https://github.com/shadowkiller33/parascore_toolkit) for parascore_toolkit package. Here is a simple tutorial for parascore:
 
 ```python
-import parascore
-cands = [
-    "A young person is skating."
-]
-
-sources = [
-    "There's a child on a skateboard."
-]
-
-sources = [
-    "A kid is skateboarding."
-]
-
-score = parascore.base_score(cands, sources, refs, model_type='bert-base-uncased', batch_size=16)
+from parascore import ParaScorer
+scorer = ParaScorer(lang="en", model_type = 'bert-base-uncased')
+cands = ["A young person is skating."]
+sources = ["There's a child on a skateboard."]
+refs = ["A kid is skateboarding."]
+score = scorer.base_score(cands, sources, refs, batch_size=16)
+print(score)
+[0.8152960109710693]
 ```
 
 

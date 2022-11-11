@@ -74,7 +74,7 @@ this codebase supports pre-trained models in Huggingface's `transformers`. You c
 We also prepare a convinient toolkit for fast usage for our ParaScore, which is called **parascore**. You can install it as follows:
 
 ```
-pip install parascore
+pip install parascore==1.0.5
 ```
 
 Some documents and tutorial can refer to the [homepage](https://github.com/shadowkiller33/parascore_toolkit) for parascore_toolkit package. Here is a simple tutorial for parascore:

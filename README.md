@@ -96,7 +96,7 @@ print(score)
 Please cite our paper if you use ParaScore in your work:
 
 ```
-@inproceedings{,
+@inproceedings{
   title = {On the Evaluation Metrics for Paraphrase Generation},
   author = {Lingfeng Shen, Lemao Liu, Haiyun Jiang, Shuming Shi},
   year = {2022},

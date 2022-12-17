@@ -97,9 +97,9 @@ Please cite our paper if you use ParaScore in your work:
 
 ```
 @inproceedings{,
-  title = {},
-  author = {},
+  title = {On the Evaluation Metrics for Paraphrase Generation},
+  author = {Lingfeng Shen, Lemao Liu, Haiyun Jiang, Shuming Shi},
   year = {2022},
-  booktitle = {Proceedings of EMNLP}
+  booktitle = {The 2022 Conference on Empirical Methods in Natural Language Processing}
 }
 ```

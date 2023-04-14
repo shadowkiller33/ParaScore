@@ -96,10 +96,11 @@ print(score)
 Please cite our paper if you use ParaScore in your work:
 
 ```
-@inproceedings{
-  title = {On the Evaluation Metrics for Paraphrase Generation},
-  author = {Lingfeng Shen, Lemao Liu, Haiyun Jiang, Shuming Shi},
-  year = {2022},
-  booktitle = {The 2022 Conference on Empirical Methods in Natural Language Processing}
+@inproceedings{shen2022evaluation,
+  title={On the Evaluation Metrics for Paraphrase Generation},
+  author={Shen, Lingfeng and Liu, Lemao and Jiang, Haiyun and Shi, Shuming},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  pages={3178--3190},
+  year={2022}
 }
 ```
